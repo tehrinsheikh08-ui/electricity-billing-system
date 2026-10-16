@@ -16,7 +16,7 @@ A simple console-based Electricity Billing System written in C.
 ## How to Run
 
 1. Install a C compiler (GCC)
-2. Compile:gcc electricityy.c -o electricityy
+2. Compile: gcc electricityy.c -o electricityy
 3. Run: ./electricityy (Mac/Linux) or .\electricityy.exe (Windows)
 
 ## Menu Options
